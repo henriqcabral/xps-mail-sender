@@ -1,0 +1,7 @@
+{ "settings": {
+    "mail-source": "data@company.com.br",
+    "mail-subject": "My Reports",
+    "mail-destination": ["put_a@mail.here", "and_put@here.to", "or_put@just.one"],
+    "files-to-attach": "Put/a/dir/here"
+  }
+}

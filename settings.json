@@ -1,0 +1,7 @@
+{ "settings": {
+    "smtp-server": "172.16.70.101",
+    "mail-source": "datacenter@company.com.br",
+    "mail-body-message": "Hi This is a message for you, please don't answare!",
+    "mail-subject": "New mail for you"
+  }
+}
